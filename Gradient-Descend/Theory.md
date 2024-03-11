@@ -1,6 +1,4 @@
-<h1><center>Using Gradient Descent Algorithm for Simple Linear Regression</center></h1>  
-<center>By <b>HARIPRASHAAD SR</b></center>
-<center>Student</center>
+# Using Gradient Descent Algorithm for Simple Linear Regression
 
 In machine learning, gradient descent is a popular optimization algorithm used to minimize the cost function of a model. In this tutorial, we'll explore how gradient descent can be applied to a simple linear regression model.
 
