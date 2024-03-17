@@ -1,6 +1,14 @@
-# Using Gradient Descent Algorithm for Simple Linear Regression
+# Vanilla Gradient Descend
+"Vanilla" gradient descent refers to the basic form of gradient descent without any additional enhancements or modifications.
 
-In machine learning, gradient descent is a popular optimization algorithm used to minimize the cost function of a model. In this tutorial, we'll explore how gradient descent can be applied to a simple linear regression model.
+Vanilla gradient descent is simple and easy to implement, making it a common choice for optimizing differentiable loss functions. However, it has some limitations. For example, it can converge slowly if the learning rate is too small or if the optimization surface is rugged, and it can oscillate or diverge if the learning rate is too large.
+
+Despite its simplicity, vanilla gradient descent serves as the foundation for many more sophisticated optimization algorithms, such as stochastic gradient descent (SGD), mini-batch gradient descent, and variants like momentum-based gradient descent and Adam optimization.
+
+
+# Using Vanilla Gradient Descent Algorithm for Simple Linear Regression
+
+In machine learning and deep learning, gradient descent is a popular optimization algorithm used to minimize the cost function of a model. In this tutorial, we'll explore how vanilla gradient descent can be applied to a simple linear regression model.
 
 ## Simple Linear Regression
 
